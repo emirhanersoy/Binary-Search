@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
